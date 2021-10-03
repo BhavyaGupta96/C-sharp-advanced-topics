@@ -1,0 +1,16 @@
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\CSharpAdvanced.exe
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\CSharpAdvanced.deps.json
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\CSharpAdvanced.runtimeconfig.json
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\CSharpAdvanced.runtimeconfig.dev.json
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\CSharpAdvanced.dll
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\ref\CSharpAdvanced.dll
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\CSharpAdvanced.pdb
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\CSharpAdvanced.csproj.AssemblyReference.cache
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\CSharpAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\CSharpAdvanced.AssemblyInfoInputs.cache
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\CSharpAdvanced.AssemblyInfo.cs
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\CSharpAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\CSharpAdvanced.dll
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\ref\CSharpAdvanced.dll
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\CSharpAdvanced.pdb
+C:\Users\yogis\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\CSharpAdvanced.genruntimeconfig.cache
