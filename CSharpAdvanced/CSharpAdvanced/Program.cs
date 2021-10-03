@@ -41,7 +41,7 @@ namespace GenericsExample
      // Class generic
     class GenericClassExample<Ty>
     {
-        public static bool equalss(Ty x, Ty y)
+        public static bool equalss(int x, int y)
         {
             return x.Equals(y);
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yogis\\source\\repos\\CSharpAdvanced\\DelegatesEventsExample\\DelegatesEventsExample.csproj",
-      "projectName": "DelegatesEventsExample",
-      "projectPath": "C:\\Users\\yogis\\source\\repos\\CSharpAdvanced\\DelegatesEventsExample\\DelegatesEventsExample.csproj",
+      "projectUniqueName": "C:\\Users\\yogis\\source\\repos\\C-sharp-advanced-topics\\CSharpAdvanced\\DelegatesEventsExample\\DelegatesExample.csproj",
+      "projectName": "DelegatesExample",
+      "projectPath": "C:\\Users\\yogis\\source\\repos\\C-sharp-advanced-topics\\CSharpAdvanced\\DelegatesEventsExample\\DelegatesExample.csproj",
       "packagesPath": "C:\\Users\\yogis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yogis\\source\\repos\\CSharpAdvanced\\DelegatesEventsExample\\obj\\",
+      "outputPath": "C:\\Users\\yogis\\source\\repos\\C-sharp-advanced-topics\\CSharpAdvanced\\DelegatesEventsExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yogis\\AppData\\Roaming\\NuGet\\NuGet.Config",

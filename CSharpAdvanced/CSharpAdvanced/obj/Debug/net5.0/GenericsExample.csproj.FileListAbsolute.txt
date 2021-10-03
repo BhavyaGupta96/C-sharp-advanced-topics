@@ -1,0 +1,16 @@
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\GenericsExample.exe
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\GenericsExample.deps.json
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\GenericsExample.runtimeconfig.json
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\GenericsExample.runtimeconfig.dev.json
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\GenericsExample.dll
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\ref\GenericsExample.dll
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\bin\Debug\net5.0\GenericsExample.pdb
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\GenericsExample.csproj.AssemblyReference.cache
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\GenericsExample.AssemblyInfoInputs.cache
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\GenericsExample.AssemblyInfo.cs
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\GenericsExample.csproj.CoreCompileInputs.cache
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\GenericsExample.dll
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\ref\GenericsExample.dll
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\GenericsExample.pdb
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\CSharpAdvanced\obj\Debug\net5.0\GenericsExample.genruntimeconfig.cache

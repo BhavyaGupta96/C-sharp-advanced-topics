@@ -1,0 +1,16 @@
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\bin\Debug\net5.0\DelegatesEventsExample.exe
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\bin\Debug\net5.0\DelegatesEventsExample.deps.json
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\bin\Debug\net5.0\DelegatesEventsExample.runtimeconfig.json
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\bin\Debug\net5.0\DelegatesEventsExample.runtimeconfig.dev.json
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\bin\Debug\net5.0\DelegatesEventsExample.dll
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\bin\Debug\net5.0\ref\DelegatesEventsExample.dll
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\bin\Debug\net5.0\DelegatesEventsExample.pdb
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\obj\Debug\net5.0\DelegatesEventsExample.csproj.AssemblyReference.cache
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\obj\Debug\net5.0\DelegatesEventsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\obj\Debug\net5.0\DelegatesEventsExample.AssemblyInfoInputs.cache
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\obj\Debug\net5.0\DelegatesEventsExample.AssemblyInfo.cs
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\obj\Debug\net5.0\DelegatesEventsExample.csproj.CoreCompileInputs.cache
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\obj\Debug\net5.0\DelegatesEventsExample.dll
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\obj\Debug\net5.0\ref\DelegatesEventsExample.dll
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\obj\Debug\net5.0\DelegatesEventsExample.pdb
+C:\Users\yogis\source\repos\C-sharp-advanced-topics\CSharpAdvanced\DelegatesEventsExample\obj\Debug\net5.0\DelegatesEventsExample.genruntimeconfig.cache

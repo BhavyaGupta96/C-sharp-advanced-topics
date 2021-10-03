@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dn99NDKrr2ZKaVzswXfF3eb8q2F7XEV3IwVzxWj+iFNKjZv5ZyutntjtywcT3daLSRKwk/7Hc+jOxiSFlY3+3A==",
+  "dgSpecHash": "RMIUwfBaj5v2IfglBT6DoKMEN0fAprinUMEnSRQtV8uGPywU/L/jmmNyfUrsM4/SkSSLzcakgX9Tid92uFGrvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yogis\\source\\repos\\CSharpAdvanced\\CSharpAdvanced\\GenericsExample.csproj",
+  "projectFilePath": "C:\\Users\\yogis\\source\\repos\\C-sharp-advanced-topics\\CSharpAdvanced\\CSharpAdvanced\\GenericsExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KKTap+zYzN47KAbymJQG3mNDrDw/e6PMp84Q3K1YtESQeQdghCBInIyQp43kMH3Ot46gyJnsMqHso00oh8uRUw==",
+  "dgSpecHash": "/EHNtXe85Bt3o+w8CyemThgTAAWdVWMW6ZG2qNY8D5g0UGCsP8YQmXZmW9ZUTyJrdyjCYOtjaSSFwqSKqOv1zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yogis\\source\\repos\\CSharpAdvanced\\DelegatesEventsExample\\DelegatesEventsExample.csproj",
+  "projectFilePath": "C:\\Users\\yogis\\source\\repos\\C-sharp-advanced-topics\\CSharpAdvanced\\DelegatesEventsExample\\DelegatesExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yogis\\source\\repos\\CSharpAdvanced\\CSharpAdvanced\\GenericsExample.csproj",
+      "projectUniqueName": "C:\\Users\\yogis\\source\\repos\\C-sharp-advanced-topics\\CSharpAdvanced\\CSharpAdvanced\\GenericsExample.csproj",
       "projectName": "GenericsExample",
-      "projectPath": "C:\\Users\\yogis\\source\\repos\\CSharpAdvanced\\CSharpAdvanced\\GenericsExample.csproj",
+      "projectPath": "C:\\Users\\yogis\\source\\repos\\C-sharp-advanced-topics\\CSharpAdvanced\\CSharpAdvanced\\GenericsExample.csproj",
       "packagesPath": "C:\\Users\\yogis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yogis\\source\\repos\\CSharpAdvanced\\CSharpAdvanced\\obj\\",
+      "outputPath": "C:\\Users\\yogis\\source\\repos\\C-sharp-advanced-topics\\CSharpAdvanced\\CSharpAdvanced\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yogis\\AppData\\Roaming\\NuGet\\NuGet.Config",
